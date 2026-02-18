@@ -12,6 +12,10 @@
 - Bridge the gap between your dev team, your product, and your operations
 - Turn AI from buzzword into working tools — bots, agents, automation
 
+#### Latest projects
+
+- **[codex-proxy](https://github.com/evilvic/codex-proxy)** — AWS proxy for OpenAI Codex CLI. Replaces individual API keys with centralized access control, per-developer cost attribution, and full request/response logging to S3. Serverless Go Lambda with DynamoDB token registry.
+
 #### Latest experiments
 
 - **[theo](https://github.com/evilvic/theo)** — Personal Claude assistant on WhatsApp. Single Node.js process that routes messages to Claude Agent SDK running in Apple Container (isolated Linux VMs). Each chat gets its own filesystem, persistent memory, and scheduled tasks. ~600 lines of code.
