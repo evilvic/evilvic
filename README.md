@@ -14,6 +14,7 @@
 
 #### Latest projects
 
+- **[minions](https://github.com/evilvic/minions)** — Three autonomous coding agents that form a development pipeline — analysis, implementation, and code review — using shell scripts, Codex CLI, and GitLab. Each agent runs in an Apple Container with a Git-based "brain" repo for tasks, guardrails, and memory.
 - **[codex-proxy](https://github.com/evilvic/codex-proxy)** — AWS proxy for OpenAI Codex CLI. Replaces individual API keys with centralized access control, per-developer cost attribution, and full request/response logging to S3. Serverless Go Lambda with DynamoDB token registry.
 
 #### Latest experiments
