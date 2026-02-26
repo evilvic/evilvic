@@ -20,6 +20,7 @@
 #### Latest experiments
 
 - **[theo](https://github.com/evilvic/theo)** — Personal Claude assistant on WhatsApp. Single Node.js process that routes messages to Claude Agent SDK running in Apple Container (isolated Linux VMs). Each chat gets its own filesystem, persistent memory, and scheduled tasks. ~600 lines of code.
+- **[llm-eval-suite](https://github.com/evilvic/llm-eval-suite)** - Benchmarking 9 local LLMs, 8 commercial APIs (OpenAI, Anthropic, Google), and 32 specialized models on 3 Mac devices. Automated pipeline: YAML prompts → Ollama runner → Claude Haiku judge → 25-chart dashboard. Covers code, math, translation, safety, embeddings, OCR, and more.
 
 #### Get in touch:
 
