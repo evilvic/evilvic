@@ -21,7 +21,7 @@
 
 - **[theo](https://github.com/evilvic/theo)** — Personal Claude assistant on WhatsApp. Single Node.js process that routes messages to Claude Agent SDK running in Apple Container (isolated Linux VMs). Each chat gets its own filesystem, persistent memory, and scheduled tasks. ~600 lines of code.
 - **[llm-eval-suite](https://github.com/evilvic/llm-eval-suite)** — Benchmarking 9 local LLMs, 8 commercial APIs (OpenAI, Anthropic, Google), and 32 specialized models on 3 Mac devices. Automated pipeline: YAML prompts → Ollama runner → Claude Haiku judge → 25-chart dashboard. Covers code, math, translation, safety, embeddings, OCR, and more.
-- **[nina](https://github.com/evilvic/nina) + [simone](https://github.com/evilvic/simone)** — nina a lightweight self-hosted music streaming. nina is a single-binary Subsonic API server in ~2,000 lines of Go — no SQLite, no web UI, just point it at a music folder. simone a retro-style Vue 3 web client with a click wheel UI. Together they cover browse, search, playlists, transcoding, scrobble, and continuous playback.
+- **[nina](https://github.com/evilvic/nina) + [simone](https://github.com/evilvic/simone)** — A lightweight self-hosted music streaming. nina is a single-binary Subsonic API server in ~2,000 lines of Go — no SQLite, no web UI, just point it at a music folder. simone is a retro-style Vue 3 web client with a click wheel UI. Together they cover browse, search, playlists, transcoding, scrobble, and continuous playback.
 
 #### Get in touch:
 
